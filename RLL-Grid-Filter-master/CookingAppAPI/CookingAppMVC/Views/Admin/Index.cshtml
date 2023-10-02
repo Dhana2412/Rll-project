@@ -1,0 +1,33 @@
+﻿@model List<Admin>
+
+<h2>Admin List</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Admin ID</th>
+            <th>Admin Name</th>
+            <th>Email</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var admin in Model)
+        {
+            <tr>
+                <td>@admin.AdminId</td>
+                <td>@admin.Adminname</td>
+                <td>@admin.Email</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@admin.AdminId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@admin.AdminId">Delete</a> |
+                    <a asp-action="Details" asp-route-id="@admin.AdminId">Details</a> |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

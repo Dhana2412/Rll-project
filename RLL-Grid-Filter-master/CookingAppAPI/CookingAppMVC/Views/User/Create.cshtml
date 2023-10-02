@@ -1,0 +1,32 @@
+﻿@model CookingAppMVC.Models.User
+
+<h2>Create User</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label for="FirstName">First Name:</label>
+        <input type="text" class="form-control" id="FirstName" name="FirstName" value="@Model.FirstName">
+    </div>
+    <div class="form-group">
+        <label for="LastName">Last Name:</label>
+        <input type="text" class="form-control" id="LastName" name="LastName" value="@Model.LastName">
+    </div>
+    <div class="form-group">
+        <label for="Username">Username:</label>
+        <input type="text" class="form-control" id="Username" name="Username" value="@Model.Username">
+    </div>
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input type="text" class="form-control" id="Email" name="Email" value="@Model.Email">
+    </div>
+    <div class="form-group">
+        <label for="Password">Password:</label>
+        <input type="password" class="form-control" id="Password" name="Password" value="@Model.Password">
+    </div>
+    <hr />
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<p>
+    <a asp-action="Index">Back to User List</a>
+</p>

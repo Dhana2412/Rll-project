@@ -1,0 +1,25 @@
+﻿@model Admin
+
+<h2>Edit Admin</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="AdminId" />
+    <div class="form-group">
+        <label for="Adminname">Admin Name:</label>
+        <input type="text" class="form-control" id="Adminname" name="Adminname" value="@Model.Adminname">
+    </div>
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input type="text" class="form-control" id="Email" name="Email" value="@Model.Email">
+    </div>
+    <div class="form-group">
+        <label for="Password">Password:</label>
+        <input type="password" class="form-control" id="Password" name="Password" value="@Model.Password">
+    </div><hr />
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>
+
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.AdminId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</p>

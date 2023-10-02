@@ -1,0 +1,32 @@
+﻿@model List<Recipe>
+
+<link rel="stylesheet" href="~/css/recipe-index-styles.css" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/recipe-index-scripts.js"></script>
+
+<h2>Recipe List</h2>
+<div class="filter-container">
+    <a asp-action="Create" class="create-new-button">Create New</a>
+    <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="sortButton" data-bs-toggle="dropdown" aria-expanded="false">
+            Sort By : Featured
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="sortButton">
+            <li><button class="dropdown-item" type="button" data-value="A to Z">Sort By : A to Z</button></li>
+            <li><button class="dropdown-item" type="button" data-value="Z to A">Sort By : Z to A</button></li>
+            <li><button class="dropdown-item" type="button" data-value="Featured">Sort By : Featured</button></li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="recipe-grid">
+    @foreach (var recipe in Model)
+    {
+        <a asp-action="Details" asp-route-id="@recipe.Id" class="recipe-card">
+            <img src="@recipe.ImageUrl" alt="@recipe.Name" class="recipe-image">
+            <h3 class="recipe-name">@recipe.Name</h3>
+            <p class="recipe-category">@recipe.Category</p>
+        </a>
+    }
+</div>

@@ -1,0 +1,36 @@
+﻿@model CookingAppMVC.Models.Recipe
+
+<h2>Create Recipe</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name">
+    </div>
+    <div class="form-group">
+        <label for="Description">Description:</label>
+        <textarea class="form-control" id="Description" name="Description">@Model.Description</textarea>
+    </div>
+    <div class="form-group">
+        <label for="Ingredients">Ingredients:</label>
+        <textarea class="form-control" id="Ingredients" name="Ingredients">@Model.Ingredients</textarea>
+    </div>
+    <div class="form-group">
+        <label for="Category">Category:</label>
+        <input type="text" class="form-control" id="Category" name="Category" value="@Model.Category">
+    </div>
+    <div class="form-group">
+        <label for="SubmissionDate">Submission Date:</label>
+        <input type="text" class="form-control" id="SubmissionDate" name="SubmissionDate" value="@Model.SubmissionDate">
+    </div>
+    <div class="form-group">
+        <label for="ImageUrl">Image URL:</label>
+        <input type="text" class="form-control" id="ImageUrl" name="ImageUrl" value="@Model.ImageUrl">
+    </div>
+    <hr />
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>

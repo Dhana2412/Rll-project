@@ -1,0 +1,26 @@
+﻿@model Admin
+
+<h2>Admin Details</h2>
+
+<table class="table">
+    <tr>
+        <th>Admin ID</th>
+        <td>@Model.AdminId</td>
+    </tr>
+    <tr>
+        <th>Admin Name</th>
+        <td>@Model.Adminname</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <th>Password</th>
+        <td>@Model.Password</td>
+    </tr>
+</table>
+<hr />
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>

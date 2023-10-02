@@ -1,0 +1,25 @@
+﻿@model CookingAppMVC.Models.User
+
+<h2>User Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>User ID:</dt>
+        <dd>@Model.UserId</dd>
+        <dt>First Name:</dt>
+        <dd>@Model.FirstName</dd>
+        <dt>Last Name:</dt>
+        <dd>@Model.LastName</dd>
+        <dt>Username:</dt>
+        <dd>@Model.Username</dd>
+        <dt>Email:</dt>
+        <dd>@Model.Email</dd>
+        <dt>Password:</dt>
+        <dd>@Model.Password</dd>
+    </dl>
+    <hr />
+    <p>
+        <a asp-action="Edit" asp-route-id="@Model.UserId">Edit</a> |
+        <a asp-action="Index">Back to User List</a>
+    </p>
+</div>

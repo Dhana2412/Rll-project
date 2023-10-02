@@ -1,0 +1,25 @@
+﻿@model CookingAppMVC.Models.User
+
+<h2>Delete User</h2>
+
+<div>
+    <p>Are you sure you want to delete this user?</p>
+    <dl class="dl-horizontal">
+        <dt>User ID:</dt>
+        <dd>@Model.UserId</dd>
+        <dt>First Name:</dt>
+        <dd>@Model.FirstName</dd>
+        <dt>Last Name:</dt>
+        <dd>@Model.LastName</dd>
+        <dt>Username:</dt>
+        <dd>@Model.Username</dd>
+        <dt>Email:</dt>
+        <dd>@Model.Email</dd>
+    </dl>
+    <hr />
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="UserId" />
+        <button type="submit" class="btn btn-danger">Delete</button> |
+        <a asp-action="Index">Back to User List</a>
+    </form>
+</div>

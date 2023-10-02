@@ -1,0 +1,86 @@
+﻿@model CookingAppMVC.Models.Register
+
+@{
+    ViewData["Title"] = "Register";
+
+}
+<div class="wrapper">
+    <div class="row">
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="text-center">
+                <h1 class="text-info">Register form</h1>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName">First Name:</label>
+                <input type="text" asp-for="FirstName" class="form-control" placeholder="Enter FirstName" autocomplete="off" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName">Last Name:</label>
+                <input type="text" asp-for="LastName" class="form-control" placeholder="Enter LastName" autocomplete="off" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Username">User Name:</label>
+                <input type="text" asp-for="Username" placeholder="Enter Username" class="form-control" autocomplete="off" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email">Email:</label>
+                <input type="text" asp-for="Email" class="form-control" placeholder="Enter Email" autocomplete="off" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password">Password:</label>
+                <input type="password" asp-for="Password" class="form-control" placeholder="Enter password" autocomplete="off" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmPassword">Confirm Password:</label>
+                <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Enter confirm password" autocomplete="off" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group button">
+                <input type="submit" value="Register" class="btn btn-default" />
+            </div>
+        </form>
+        <div>
+            <label>Already a Member?</label>
+            <a asp-action="Login" asp-controller="LoginReg">Login</a>
+        </div>
+    </div>
+</div>
+<style>
+    body {
+        min-height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        justify-content: space-around;
+        background-image: url("https://cdn.wallpapersafari.com/90/49/GqrnDN.jpg");
+    }
+    .wrapper {
+        position: relative;
+        margin-top: 20px;
+        max-width: 430px;
+        width: 100%;
+        background: #fff;
+        padding: 34px;
+        border-radius: 6px;
+        box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    }
+
+    .form-group.button input {
+        color: #fff;
+        letter-spacing: 1px;
+        border: none;
+        background: #ff9933;
+        cursor: pointer;
+        border-radius: 20px;
+    }
+
+        .form-group.button input:hover {
+            background: #ff8000;
+        }
+</style>

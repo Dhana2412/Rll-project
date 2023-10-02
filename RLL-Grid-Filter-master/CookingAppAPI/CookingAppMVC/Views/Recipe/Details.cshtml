@@ -1,0 +1,80 @@
+﻿@model CookingAppMVC.Models.Recipe
+<h2>Recipe Details</h2>
+<html>
+<head>
+    <style>
+        body {
+            min-height: 100vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            justify-content: space-around;
+            background-image: url("https://img.freepik.com/free-photo/top-view-beans-peppers-with-onions-garlics-dark-food-meal-ingredient-product_140725-33782.jpg");
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 90px;
+        }
+
+        table {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+            table th, table td {
+                padding: 10px;
+                text-align: left;
+            }
+
+
+        .recipe-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        html, body {
+            overflow-x: hidden;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <table class="table table-bordered">
+                    <tr>
+                        <th>Item</th>
+                        <th>Detail</th>
+                    </tr>
+                    <tr>
+                        <td>Name</td>
+                        <td>@Model.Name</td>
+                    </tr>
+                    <tr>
+                        <td>Ingredients</td>
+                        <td>@Html.Raw(Model.Ingredients)</td>
+                    </tr>
+                    <tr>
+                        <td>Description</td>
+                        <td>@Html.Raw(Model.Description)</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <img src="@ViewBag.ImageURL" alt="Recipe Image" class="recipe-image" style="max-width: 150px; max-height: 150px;" />
+            </div>
+
+        </div>
+    </div>
+
+    @*  <p>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+    </p>*@
+</body>
+</html>

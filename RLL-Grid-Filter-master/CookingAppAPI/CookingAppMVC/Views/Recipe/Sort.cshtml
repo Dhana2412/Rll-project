@@ -1,0 +1,16 @@
+﻿@model List<Recipe>
+
+@foreach (var recipe in Model)
+{
+    <tr>
+        <td>@recipe.Id</td>
+        <td>@recipe.Name</td>
+        <td>@recipe.Description</td>
+        <td>@recipe.Category</td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@recipe.Id">Edit</a> |
+            <a asp-action="Delete" asp-route-id="@recipe.Id">Delete</a> |
+            <a asp-action="Details" asp-route-id="@recipe.Id">Details</a>
+        </td>
+    </tr>
+}

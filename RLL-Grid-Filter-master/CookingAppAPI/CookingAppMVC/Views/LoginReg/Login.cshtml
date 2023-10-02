@@ -1,0 +1,66 @@
+﻿@model CookingAppMVC.Models.Login
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="wrapper">
+<div class="row">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="text-center">
+                    <h1 class="text-info">Login</h1>
+                </div>
+            <div class="form-group">
+                <label asp-for="Username">User Name:</label>
+                <input type="text" asp-for="Username" class="form-control" placeholder="Enter Username" autocomplete="off" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password">Password: </label>
+                <input type="password" asp-for="Password" class="form-control" placeholder="Enter Password" autocomplete="off" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group button">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+        <div>
+            <label>If you are not registered yet?</label>
+            <a asp-action="Register" asp-controller="LoginReg">SignUp</a>
+        </div>
+    </div>
+</div>
+<style>
+    body {
+        min-height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        justify-content: space-around;
+        background-image: url("https://cdn.wallpapersafari.com/90/49/GqrnDN.jpg");
+    }
+    .wrapper {
+        position: relative;
+        margin-top: 50px;
+        max-width: 430px;
+        width: 100%;
+        background: #fff;
+        padding: 34px;
+        border-radius: 6px;
+        box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    }
+
+    .form-group.button input {
+        color: #fff;
+        letter-spacing: 1px;
+        border: none;
+        background: #ff9933;
+        cursor: pointer;
+        border-radius: 20px;
+    }
+
+        .form-group.button input:hover {
+            background: #ff8000;
+        }
+</style>

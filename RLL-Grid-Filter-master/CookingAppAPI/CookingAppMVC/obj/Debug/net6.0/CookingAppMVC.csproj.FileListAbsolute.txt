@@ -1,0 +1,622 @@
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\appsettings.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.staticwebassets.runtime.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.exe
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.deps.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.runtimeconfig.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.pdb
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Azure.Core.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Humanizer.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.AssemblyReference.cache
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.AssemblyInfoInputs.cache
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.AssemblyInfo.cs
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.CoreCompileInputs.cache
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.RazorAssemblyInfo.cache
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.RazorAssemblyInfo.cs
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.CookingAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CookingAppMVC.props
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CookingAppMVC.props
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CookingAppMVC.props
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\bundle\CookingAppMVC.styles.css
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\projectbundle\CookingAppMVC.bundle.scp.css
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.CopyComplete
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\refint\CookingAppMVC.dll
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.pdb
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.genruntimeconfig.cache
+D:\Raven\PracticeExercise\Phase03\RLL\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\ref\CookingAppMVC.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\appsettings.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.staticwebassets.runtime.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.exe
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.deps.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.runtimeconfig.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.pdb
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Text.Json.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.AssemblyReference.cache
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.AssemblyInfoInputs.cache
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.AssemblyInfo.cs
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.CoreCompileInputs.cache
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.RazorAssemblyInfo.cache
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.RazorAssemblyInfo.cs
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.CookingAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CookingAppMVC.props
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CookingAppMVC.props
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CookingAppMVC.props
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\bundle\CookingAppMVC.styles.css
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\projectbundle\CookingAppMVC.bundle.scp.css
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.CopyComplete
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\refint\CookingAppMVC.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.pdb
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.genruntimeconfig.cache
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\ref\CookingAppMVC.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\MessagePack.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Common.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Project\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\appsettings.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.staticwebassets.runtime.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.exe
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.deps.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.runtimeconfig.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\CookingAppMVC.pdb
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\MessagePack.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Common.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Text.Json.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.AssemblyReference.cache
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.AssemblyInfoInputs.cache
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.AssemblyInfo.cs
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.CoreCompileInputs.cache
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.RazorAssemblyInfo.cache
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.RazorAssemblyInfo.cs
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.CookingAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CookingAppMVC.props
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CookingAppMVC.props
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CookingAppMVC.props
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\bundle\CookingAppMVC.styles.css
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\scopedcss\projectbundle\CookingAppMVC.bundle.scp.css
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.csproj.CopyComplete
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\refint\CookingAppMVC.dll
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.pdb
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\CookingAppMVC.genruntimeconfig.cache
+C:\Rll project navbars\RLL-Grid-Filter-master\CookingAppAPI\CookingAppMVC\obj\Debug\net6.0\ref\CookingAppMVC.dll

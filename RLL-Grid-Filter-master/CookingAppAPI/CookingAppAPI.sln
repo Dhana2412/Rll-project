@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookingAppAPI", "CookingAppAPI\CookingAppAPI.csproj", "{AA7EA251-73EC-4AB4-8F33-E8B32B08EDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookingAppMVC", "CookingAppMVC\CookingAppMVC.csproj", "{7D91880B-FCC8-45B3-B82B-D889362C5D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7EA251-73EC-4AB4-8F33-E8B32B08EDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7EA251-73EC-4AB4-8F33-E8B32B08EDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7EA251-73EC-4AB4-8F33-E8B32B08EDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7EA251-73EC-4AB4-8F33-E8B32B08EDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D91880B-FCC8-45B3-B82B-D889362C5D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D91880B-FCC8-45B3-B82B-D889362C5D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D91880B-FCC8-45B3-B82B-D889362C5D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D91880B-FCC8-45B3-B82B-D889362C5D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C766A6B9-D9DF-48F1-A5E2-8E5873D56789}
+	EndGlobalSection
+EndGlobal

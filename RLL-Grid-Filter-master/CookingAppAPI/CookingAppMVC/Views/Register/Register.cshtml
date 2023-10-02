@@ -1,0 +1,94 @@
+﻿@model CookingAppMVC.Models.Register
+
+@{
+    ViewData["Title"] = "Register";
+}
+<style>
+    .wrapper {
+        position: relative;
+        max-width: 430px;
+        width: 100%;
+        background: #fff;
+        padding: 34px;
+        border-radius: 6px;
+        box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+        margin-left:150px;
+    }
+
+    .form-group.button input {
+        color: #fff;
+        letter-spacing: 1px;
+        border: none;
+        background: #ff9933;
+        cursor: pointer;
+        border-radius: 20px;
+    }
+
+        .form-group.button input:hover {
+            background: #ff8000;
+        }
+    body {
+        min-height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        justify-content: space-around;
+        background-image: url("https://cdn.wallpapersafari.com/90/49/GqrnDN.jpg");
+    }
+</style>
+<body>
+    <div class="wrapper">
+        <div class="row">
+
+            <div class="text-center">
+                <h1 class="text-info">Register form</h1>
+            </div>
+            <h3 class="text-danger text-center">@TempData["errorMessage"]</h3>
+            <form method="post" action="Register">
+                <div class="form-group">
+                    <label asp-for="FirstName"></label>
+                    <input type="text" asp-for="FirstName" class="form-control" placeholder="Enter FirstName" autocomplete="off" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="LastName"></label>
+                    <input type="text" asp-for="LastName" class="form-control" placeholder="Enter LastName" autocomplete="off" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Username"></label>
+                    <input type="text" asp-for="Username" placeholder="Enter Username" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input type="text" asp-for="Email" class="form-control" placeholder="Enter Email" autocomplete="off" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input type="password" asp-for="Password" class="form-control" placeholder="Enter password" autocomplete="off" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ConfirmPassword"></label>
+                    <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Enter confirm password" autocomplete="off" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group button">
+                    <input type="submit" class="btn btn-default" value="Register" />
+                </div>
+
+            </form>
+            <div>
+                <label>Already a Member?</label>
+                <a asp-action="Login" asp-controller="Register">Login</a>
+            </div>
+
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
